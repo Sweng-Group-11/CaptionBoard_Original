@@ -1,4 +1,4 @@
-# CaptionBoard
+# caption
 
 ## Project setup
 ```
