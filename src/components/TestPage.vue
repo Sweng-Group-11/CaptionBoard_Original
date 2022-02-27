@@ -62,10 +62,7 @@ export default {
 
   data () {
       return {
-        show1: false,
         show2: true,
-        show3: false,
-        show4: false,
         password: 'Password',
         rules: {
           required: value => !!value || 'Required.',
